@@ -1,0 +1,5 @@
+Flask==2.0.3
+Flask-Session==0.4.0
+transformers==4.18.0
+torch==1.10.2
+scikit-learn==0.24.2
